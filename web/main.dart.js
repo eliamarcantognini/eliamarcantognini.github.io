@@ -41902,24 +41902,24 @@ return h},
 $S:165}
 K.ua.prototype={
 F:function(a){var t=null,s=u.E
-return E.Z5(new T.ez(C.N,t,t,new T.db(C.nN,T.nU(H.b([new K.uX(U.hF("assets/avatar.jpg",t,t).c,100,t),new T.bQ(t,20,t,t),L.cH("Aditya Gurjar",t,t,4),new T.bQ(t,20,t,t),L.cH("Android. Flutter. Cricket. Music.\nLikes Traveling.",K.an(a).R.Q,C.fH,2),new T.bQ(t,40,t,t),T.lN(H.b([N.rk(new T.bQ(20,20,U.hF("assets/github.png",t,t),t),L.cH("Github",t,t,t),new K.EY()),N.rk(new T.bQ(20,20,U.hF("assets/twitter.png",t,t),t),L.cH("Twitter",t,t,t),new K.EZ()),N.rk(new T.bQ(20,20,U.hF("assets/medium.png",t,t),t),L.cH("Medium",t,t,t),new K.F_())],s),C.aw,C.l8,C.bI),T.lN(H.b([N.rk(new T.bQ(20,20,U.hF("assets/instagram.png",t,t),t),L.cH("Instagram",t,t,t),new K.F0()),N.rk(new T.bQ(20,20,U.hF("assets/facebook.png",t,t),t),L.cH("Facebook",t,t,t),new K.F1()),N.rk(new T.bQ(20,20,U.hF("assets/linkedin.png",t,t),t),L.cH("Linkedin",t,t,t),new K.F2())],s),C.aw,C.l8,C.bI)],s),C.aw,C.aB,C.bI),t),t))}}
+return E.Z5(new T.ez(C.N,t,t,new T.db(C.nN,T.nU(H.b([new K.uX(U.hF("assets/avatar.jpg",t,t).c,100,t),new T.bQ(t,20,t,t),L.cH("Elia Marcantognini",t,t,4),new T.bQ(t,20,t,t),L.cH("Android. Flutter. Web. Music.\nLoves Traveling.",K.an(a).R.Q,C.fH,2),new T.bQ(t,40,t,t),T.lN(H.b([N.rk(new T.bQ(20,20,U.hF("assets/github.png",t,t),t),L.cH("Github",t,t,t),new K.EY()),N.rk(new T.bQ(20,20,U.hF("assets/twitter.png",t,t),t),L.cH("Twitter",t,t,t),new K.EZ()),N.rk(new T.bQ(20,20,U.hF("assets/medium.png",t,t),t),L.cH("Medium",t,t,t),new K.F_())],s),C.aw,C.l8,C.bI),T.lN(H.b([N.rk(new T.bQ(20,20,U.hF("assets/instagram.png",t,t),t),L.cH("Instagram",t,t,t),new K.F0()),N.rk(new T.bQ(20,20,U.hF("assets/facebook.png",t,t),t),L.cH("Facebook",t,t,t),new K.F1()),N.rk(new T.bQ(20,20,U.hF("assets/linkedin.png",t,t),t),L.cH("Linkedin",t,t,t),new K.F2())],s),C.aw,C.l8,C.bI)],s),C.aw,C.aB,C.bI),t),t))}}
 K.EY.prototype={
-$0:function(){return C.S.f0(window,"https://github.com/eliamarcantognini/","adityadroid")},
+$0:function(){return C.S.f0(window,"https://github.com/eliamarcantognini/","eliamarcantognini")},
 $S:9}
 K.EZ.prototype={
-$0:function(){return C.S.f0(window,"https://twitter.com/eliamarcantognini","adityadroid")},
+$0:function(){return C.S.f0(window,"https://twitter.com/eliamarcantognini","eliamarcantognini")},
 $S:9}
 K.F_.prototype={
-$0:function(){return C.S.f0(window,"http://www.medium.com/@eliamarcantognini","adityadroid")},
+$0:function(){return C.S.f0(window,"http://www.medium.com/@elia.marcantognini","eliamarcantognini")},
 $S:9}
 K.F0.prototype={
-$0:function(){return C.S.f0(window,"https://www.instagram.com/eliamarcantognini/","adityadroid")},
+$0:function(){return C.S.f0(window,"https://www.instagram.com/eliamarcantognini/","eliamarcantognini")},
 $S:9}
 K.F1.prototype={
-$0:function(){return C.S.f0(window,"https://www.facebook.com/elia.marcantognini","adityadroid")},
+$0:function(){return C.S.f0(window,"https://www.facebook.com/elia.marcantognini","eliamarcantognini")},
 $S:9}
 K.F2.prototype={
-$0:function(){return C.S.f0(window,"https://www.linkedin.com/in/eliamarcantognini/","adityadroid")},
+$0:function(){return C.S.f0(window,"https://www.linkedin.com/in/eliamarcantognini/","eliamarcantognini")},
 $S:9}
 N.nB.prototype={
 aG:function(){return new N.r0(new T.Fh(),H.b([],u.tG),C.p)}}
@@ -41947,7 +41947,7 @@ return new X.uz(J.U(t.e,b),b,J.b9(t.e),null)},
 $C:"$2",
 $R:2}
 N.PO.prototype={
-$0:function(){return C.S.f0(window,"http://www.medium.com/@eliamarcantognini","adityadroid")},
+$0:function(){return C.S.f0(window,"http://www.medium.com/@elia.marcantognini","eliamarcantognini")},
 $S:9}
 N.PP.prototype={
 $0:function(){var t=this.a
@@ -41980,7 +41980,7 @@ r=t.c
 return R.Vb(!1,!0,V.Xn(M.dr(s,T.nU(H.b([new U.kZ(M.YV(s,s,new D.ln(C.c.P("https://miro.medium.com/fit/c/700/300/",r.fy.b.a),1)),s,s,s),new T.bQ(s,16,s,s),L.cH(r.e,K.an(a).R.f,s,s),new T.bQ(s,8,s,s),L.cH(r.fx.a,K.an(a).R.x,s,s)],u.E),C.bZ,C.aB,C.bH),s,s,s,s,s,new V.aA(16,16,16,16),s,s),new V.aA(16,q,16,q)),s,!0,s,s,s,s,s,s,s,s,new X.FD(t),s)},
 gm:function(a){return this.e}}
 X.FD.prototype={
-$0:function(){return C.S.f0(window,C.c.P("http://www.medium.com/@eliamarcantognini/",this.a.c.y1),"adityadroid")},
+$0:function(){return C.S.f0(window,C.c.P("http://www.medium.com/@elia.marcantognini/",this.a.c.y1),"eliamarcantognini")},
 $S:9}
 Z.lD.prototype={
 F:function(a){var t,s=null,r=F.c1(a,!1).a,q=F.c1(a,!1).a,p=this.c
@@ -45793,7 +45793,7 @@ t($,"a96","a0U",function(){var s,r=null,q=new Array(20)
 q.fixed$length=Array
 s=u.N
 return new N.Eh(H.b(q,u.s),0,new N.Jx(H.b([],u.Q)),r,P.B(s,H.ak("bV<BS>")),P.B(s,H.ak("BS")),P.Zw(u.K,s),0,r,!1,!1,r,0,r,r,N.Zm(),N.Zm())})
-t($,"a9X","UC",function(){return H.b([new A.xV("","Truelancer","","")],H.ak("o<xV>"))})
+t($,"a9X","UC",function(){return H.b([new A.xV("","BallBlast","","")],H.ak("o<xV>"))})
 t($,"a9j","a13",function(){return H.b([new K.ua(null),new N.nB(null),new G.xW(null)],u.E)})})();(function nativeSupport(){!function(){var t=function(a){var n={}
 n[a]=1
 return Object.keys(hunkHelpers.convertToFastObject(n))[0]}
