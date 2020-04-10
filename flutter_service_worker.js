@@ -1,7 +1,7 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "36e54297163d118c683b8285e1c269cd",
+  "assets/AssetManifest.json": "67380d1444da2b264bfdc99c197d369d",
 "assets/assets/avatar.jpg": "3d047bfd286e0c8a0f9902effba91dbe",
 "assets/assets/facebook.png": "021ada146ffb7c1753557ff29618d04c",
 "assets/assets/FontManifest.json": "59c37979205b4b43589051e92e27cbcd",
@@ -13,6 +13,7 @@ const RESOURCES = {
 "assets/assets/medium.png": "fb86f4060325caef8ea1f0fad0d25f40",
 "assets/assets/medium_light.png": "bd516690c99267a778885736015befe8",
 "assets/assets/moon.png": "a270b8a10d1a9a52441bf5a322dd1b86",
+"assets/assets/siteicon.png": "5cfa5c08c3c09f719d8793732e9cf92f",
 "assets/assets/twitter.png": "8f35a40403a84631c4125c4f1859c7a6",
 "assets/assets/works/ballblast.png": "1b9c940f0f22b29e20a3b346abbe0d2a",
 "assets/FontManifest.json": "08792490555b179235543cfffa3ed5ec",
@@ -48,8 +49,8 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "734a92dfba85b5d6e648ff9b594c56ea",
 "icons/ms-icon-310x310.png": "8b0c732064e34afcd5826a8ab66dfa8f",
 "icons/ms-icon-70x70.png": "2b93829a111b41f708f3aa0882853e6b",
-"index.html": "6dd4c48df557cb316c5d7361c2ee7cbf",
-"/": "6dd4c48df557cb316c5d7361c2ee7cbf",
+"index.html": "f743f138660b5361e695aad722e5b60a",
+"/": "f743f138660b5361e695aad722e5b60a",
 "main.dart.js": "6915f3667a3c7d250df0543abec3803e",
 "manifest.json": "3c41fb16c8b3294b86b94ef13eaeda7a"
 };
