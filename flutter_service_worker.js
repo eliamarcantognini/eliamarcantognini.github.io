@@ -17,7 +17,7 @@ const RESOURCES = {
 "assets/assets/works/ballblast.png": "1b9c940f0f22b29e20a3b346abbe0d2a",
 "assets/FontManifest.json": "08792490555b179235543cfffa3ed5ec",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/LICENSE": "fdd0942e6a6d94ab6c3abe1c3294de81",
+"assets/LICENSE": "e024c8b78897040de518e91ba05e0323",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "favicon.ico": "9a5ceee39b3d70b819811f7ae389b73e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -50,7 +50,7 @@ const RESOURCES = {
 "icons/ms-icon-70x70.png": "2b93829a111b41f708f3aa0882853e6b",
 "index.html": "7c78271ad664b5c9d8b7af433415aa5d",
 "/": "7c78271ad664b5c9d8b7af433415aa5d",
-"main.dart.js": "79dfde513a7a77fc3cde2bc03d7eecbe",
+"main.dart.js": "6915f3667a3c7d250df0543abec3803e",
 "manifest.json": "3c41fb16c8b3294b86b94ef13eaeda7a"
 };
 
