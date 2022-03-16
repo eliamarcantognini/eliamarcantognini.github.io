@@ -4,7 +4,7 @@
     "family": "MaterialIcons",
     "fonts": [
       {
-        "asset": "https://fonts.gstatic.com/s/materialicons/v42/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2"
+        "asset": "fonts/MaterialIcons-Regular.ttf"
       }
     ]
   },
@@ -12,7 +12,39 @@
     "family": "GoogleSansRegular",
     "fonts": [
       {
-        "asset": "GoogleSansRegular.ttf"
+        "asset": "fonts/GoogleSansRegular.ttf"
+      }
+    ]
+  },
+  {
+    "family" : "NotoSansRegular",
+    "fonts": [
+      {
+        "asset": "fonts/NotoSans-Regular.ttf"
+      }
+    ]
+  },
+  {
+    "family" : "NotoSansBold",
+    "fonts": [
+      {
+        "asset": "fonts/NotoSans-Bold.ttf"
+      }
+    ]
+  },
+  {
+    "family" : "NotoSansBoldItalic",
+    "fonts": [
+      {
+        "asset": "fonts/NotoSans-BoldItalic.ttf"
+      }
+    ]
+  },
+  {
+    "family" : "NotoSansItalic",
+    "fonts": [
+      {
+        "asset": "fonts/NotoSans-Italic.ttf"
       }
     ]
   }
