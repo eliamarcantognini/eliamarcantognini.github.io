@@ -50,9 +50,9 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "734a92dfba85b5d6e648ff9b594c56ea",
 "icons/ms-icon-310x310.png": "8b0c732064e34afcd5826a8ab66dfa8f",
 "icons/ms-icon-70x70.png": "2b93829a111b41f708f3aa0882853e6b",
-"index.html": "a2dcaf91647b88344c6fe522bd20f845",
-"/": "a2dcaf91647b88344c6fe522bd20f845",
-"main.dart.js": "a6045b1c1a62d794d2c364d4873430d4",
+"index.html": "58a1e6340688c29924aa541993d2908f",
+"/": "58a1e6340688c29924aa541993d2908f",
+"main.dart.js": "4aa3270a95a93187b2adefb04a0257ac",
 "manifest.json": "3c41fb16c8b3294b86b94ef13eaeda7a",
 "version.json": "9a4dddba415c9ee5265cd5f5d9963a6a"
 };
