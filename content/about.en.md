@@ -24,18 +24,18 @@ author = "Elia Marcantognini"
 
 ### Languages
 
-- Java  Python  C  SQL
-- Bash  Kotlin  Dart  Scala
-- JavaScript  TypeScript  HTML/CSS  PHP
+- Java | Python | C | SQL
+- Bash | Kotlin | Dart | Scala
+- JavaScript | TypeScript | HTML/CSS | PHP
 
-### Tools & Frameworks
+### Strumenti e Framework
 
-- Android Studio  IntelliJ Idea  WebStorm
-- Postman  Git  Unit Test  Angular
-- React  NodeJS  Express  Firebase
-- MongoDB  MySQL  GCP  GitHub Actions
+- Android Studio | IntelliJ Idea | WebStorm
+- Postman | Git | Unit Test | Angular
+- React | NodeJS | Express | Firebase
+- MongoDB | MySQL | GCP | GitHub Actions
 
 ## Interest
 
-- Tech  Music  Hiking
-- Gaming  Hardware  Photograph
+- Tech | Music | Hiking
+- Gaming | Hardware | Photograph
