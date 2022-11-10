@@ -1,4 +1,4 @@
-baseURL = "http://www.eliamarcantognini.it"
+baseURL = "http://www.eliamarcantognini.github.io"
 title = "Elia Marcantognini"
 theme = "hugo-coder"
 languageCode = "en"
