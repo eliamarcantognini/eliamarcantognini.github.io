@@ -129,7 +129,7 @@ weight = 4
 url = "https://www.instagram.com/eliamarcantognini/"
 
 [languages.en]
-languageName = ":uk:"
+languageName = ":us:"
 
 [[languages.en.menu.main]]
 name = "About"
