@@ -16,7 +16,7 @@ author = "Elia Marcantognini"
 
 ## Experience
 
-- AR Developer Intern @ Maticad | October - December 202
+- AR Developer Intern @ Maticad | October - December 2022
 - Database Developer Intern @ EnjoyLive Travel | February 2016
 - Volunteer Educator @ Pesaro | 2014 - Now
 
