@@ -15,7 +15,7 @@ author = "Elia Marcantognini"
 
 ## Esperienza
 
-- Sviluppatore AR @ Maticad | October - December 202
+- Sviluppatore AR @ Maticad | October - December 2022
 - Sviluppatore di Basi di Dati @ EnjoyLive Travel | February 2016
 - Educatore Volontario @ Pesaro | 2014 - Now
 
