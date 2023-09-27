@@ -8,16 +8,17 @@ author = "Elia Marcantognini"
 
 ## Percorso di studi
 
-- Ingegneria e Scienze Informatiche @ Alma Mater Studiorum | 2021 - Now
+- Ingegneria e Scienze Informatiche @ Alma Mater Studiorum | 2021 - Ora
 - Ingegneria e Scienze Informatiche BSc @ Alma Mater Studiorum - 99/110 | 2018 - 2021
 - Ingegneria Elettronica per l'Energia e l'Informazione @ Alma Mater Studiorum | 2017 - 2018
 - Sistemi Informativi Aziendali @ ITET Bramante Genga - 96/100 | 2013 - 2017
 
 ## Esperienza
 
-- Sviluppatore AR @ Maticad | October - December 2022
-- Sviluppatore di Basi di Dati @ EnjoyLive Travel | February 2016
-- Educatore Volontario @ Pesaro | 2014 - Now
+- Funzionario Informatico @ Agenzia delle Dogane e dei Monpoli | Settembre - Ora
+- Sviluppatore AR @ Maticad | Ottobre - Dicembre 2022
+- Sviluppatore di Basi di Dati @ EnjoyLive Travel | Febbraio 2016
+- Educatore Pastorale Volontario @ Pesaro | 2014 - Ora
 
 ## IT Skills
 
