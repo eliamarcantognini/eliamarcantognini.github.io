@@ -15,7 +15,7 @@ author = "Elia Marcantognini"
 
 ## Esperienza
 
-- Funzionario Informatico @ Agenzia delle Dogane e dei Monpoli | Settembre - Ora
+- Funzionario Informatico @ Agenzia delle Dogane e dei Monopoli | Settembre - Ora
 - Sviluppatore AR @ Maticad | Ottobre - Dicembre 2022
 - Sviluppatore di Basi di Dati @ EnjoyLive Travel | Febbraio 2016
 - Educatore Pastorale Volontario @ Pesaro | 2014 - Ora

@@ -16,7 +16,7 @@ author = "Elia Marcantognini"
 
 ## Experience
 
-- IT Officer @ Agenzia delle Dogane e dei Monpoli | Settembre - Now
+- IT Officer @ Agenzia delle Dogane e dei Monopoli | September - Now
 - AR Developer Intern @ Maticad | October - December 2022
 - Database Developer Intern @ EnjoyLive Travel | February 2016
 - Volunteer Educator @ Pesaro | 2014 - Now
