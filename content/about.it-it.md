@@ -1,8 +1,8 @@
 +++
 title = "Su di me"
-description = "Elia Marcantognini personal informations" 
-date = "2022-11-10" 
-aliases = ["about-me", "about-hugo", "contact"] 
+description = "Elia Marcantognini - Informazioni personali" 
+date = "2024-06-21" 
+aliases = ["about-me", "contact"] 
 author = "Elia Marcantognini" 
 +++
 
@@ -15,7 +15,7 @@ author = "Elia Marcantognini"
 
 ## Esperienza
 
-- Funzionario Informatico @ Agenzia delle Dogane e dei Monopoli | Settembre - Ora
+- Funzionario Informatico @ Agenzia delle Dogane e dei Monopoli | Settembre 2023 - Ora
 - Sviluppatore AR @ Maticad | Ottobre - Dicembre 2022
 - Sviluppatore di Basi di Dati @ EnjoyLive Travel | Febbraio 2016
 - Educatore Pastorale Volontario @ Pesaro | 2014 - Ora

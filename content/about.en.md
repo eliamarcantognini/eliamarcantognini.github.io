@@ -1,8 +1,8 @@
 +++
-title = "About"
+title = "About me"
 description = "Elia Marcantognini personal informations" 
-date = "2022-11-10" 
-aliases = ["about-me", "about-hugo", "contact"] 
+date = "2024-06-21" 
+aliases = ["about-me", "contact"] 
 author = "Elia Marcantognini" 
 +++
 
@@ -16,7 +16,7 @@ author = "Elia Marcantognini"
 
 ## Experience
 
-- IT Officer @ Agenzia delle Dogane e dei Monopoli | September - Now
+- IT Officer @ Agenzia delle Dogane e dei Monopoli | September 2023 - Now
 - AR Developer Intern @ Maticad | October - December 2022
 - Database Developer Intern @ EnjoyLive Travel | February 2016
 - Volunteer Educator @ Pesaro | 2014 - Now
