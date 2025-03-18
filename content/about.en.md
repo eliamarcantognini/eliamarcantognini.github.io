@@ -1,7 +1,7 @@
 +++
 title = "About me"
 description = "Elia Marcantognini personal informations" 
-date = "2024-06-21" 
+date = "2025-03-18" 
 aliases = ["about-me", "contact"] 
 author = "Elia Marcantognini" 
 +++

@@ -16,7 +16,7 @@ author = "Elia Marcantognini"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Elia Marcantognini's personal website"
 keywords = "blog,developer,engineering, personal"
-info = ["Computer Science & Engineering Master Student", "24yo Italian Nerd"]
+info = ["IT Officer @ ADM"]
 # avatarURL = "images/avatar.jpg"
 gravatar = "elia.marcantognini@gmail.com"
 dateFormat = "January 2, 2006"
@@ -152,7 +152,7 @@ title = "Elia Marcantognini"
 
 [languages.it-it.params]
 author = "Elia Marcantognini"
-info = "Studente di Ingegneria e Scienze Informatiche LM"
+info = "Funzionario Informatico @ ADM"
 description = "Sito personale di Elia Marcantognini"
 keywords = "blog,sviluppatore,personale,ingegneria"
 
