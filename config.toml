@@ -1,4 +1,4 @@
-baseURL = "http://www.eliamarcantognini.it"
+baseURL = "https://www.eliamarcantognini.it"
 title = "Elia Marcantognini"
 theme = "hugo-coder"
 languageCode = "en"
@@ -13,7 +13,7 @@ enableEmoji = true
 
 [params]
 author = "Elia Marcantognini"
-# license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
+# license = '<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Elia Marcantognini's personal website"
 keywords = "blog,developer,engineering, personal"
 info = "IT Officer at ADM"
